@@ -109,4 +109,5 @@ Contractor submits completed milestones
 Client approves and funds are automatically released
 Disputes handled by designated arbitrator if needed
 Contracts Details : 0x6237996Cd6FB0651F9D98770Ab4389F0d761C222
-"C:\Users\neerl\Downloads\WhatsApp Image 2025-10-28 at 20.38.38_faac7828.jpg"
+![WhatsApp Image 2025-10-28 at 20 38 38_faac7828](https://github.com/user-attachments/assets/927e3980-ff5c-46b6-8312-ffc4c2c13f16)
+
